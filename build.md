@@ -1,5 +1,6 @@
+Twitter: 10.29.0-release.0  
+Reddit: 2024.08.0  
 Instagram: 275.0.0.27.98  
-Twitter: 10.28.0-release.0  
 Tiktok: 32.5.3  
 YouTube-Extended: 19.02.39  
 
