@@ -1,5 +1,7 @@
 YouTube: 19.04.37  
+Music: 6.42.52  
 Reddit: 2024.08.0  
+Instagram: 321.0.0.39.106  
 Twitter: 10.30.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
