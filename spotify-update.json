@@ -1,6 +1,6 @@
 {
-  "version": "v8.9.4.304",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/VladAdGad/revanced-magisk-module/releases/download/6/spotify-revanced-magisk-v8.9.4.304-arm64-v8a.zip",
+  "version": "v8.9.24.633",
+  "versionCode": 14,
+  "zipUrl": "https://github.com/VladAdGad/revanced-magisk-module/releases/download/14/spotify-revanced-magisk-v8.9.24.633-all.zip",
   "changelog": "https://raw.githubusercontent.com/VladAdGad/revanced-magisk-module/update/build.md"
 }
