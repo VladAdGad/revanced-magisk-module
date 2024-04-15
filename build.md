@@ -1,8 +1,8 @@
 YouTube: 19.09.37  
 Twitch: 16.9.1  
+Reddit: 2024.15.0  
 Tiktok: 32.5.3  
-Reddit: 2024.14.0  
-Spotify: 8.9.24.633  
+Spotify: 8.9.30.433  
 YouTube-Extended: 19.02.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
